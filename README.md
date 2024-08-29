@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dathukorra06
 - 👀 I’m interested in AI/ML and software
-- 🌱 I’m currently learning B.Tecj(Hono)
+- 🌱 I’m currently learning B.Tech(Hono)
 - 💞️ I’m looking to collaborate on intership/jobs
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
